@@ -22,7 +22,7 @@ export default class VideoElement extends Component {
                         width: "100%",
                         height: "100%"
                     }}
-                    src="https://www.youtube.com/embed/CQ_eDE0OMds"
+                    src="https://www.youtube.com/embed/zJ7hUvU-d2Q"
                     frameBorder="0"
                 />
             </div>
