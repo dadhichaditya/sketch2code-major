@@ -1,0 +1,7 @@
+flask
+requests
+Flask-SocketIO
+eventlet
+opencv-python
+numpy
+tensorflow

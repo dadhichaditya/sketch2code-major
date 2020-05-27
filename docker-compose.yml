@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  simple-flask-react-template:
+    build: .
+    container_name: simple-flask-react-template
+    ports:
+      - "5000:5000"
+    env_file:
+      - .dev.env
