@@ -27,6 +27,6 @@ cd ..
 python app.py
 ```
 
-4. Go to ```localhost:5000/#/admin``` to view project.
+4. Go to ```localhost:5000/#/canva``` to view project.
 5. Go to ```localhost:5000/#/webpage``` to view rendered output page.
 
