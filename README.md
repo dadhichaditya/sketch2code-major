@@ -1,6 +1,6 @@
 # SketchToCode
 
-http://127.0.0.1:5000/#/admin -> is the canvas (home page) route
+http://127.0.0.1:5000/#/canva -> is the canvas (home page) route
 
 http://127.0.0.1:5000/#/webpage -> is the rendered output page route
 
